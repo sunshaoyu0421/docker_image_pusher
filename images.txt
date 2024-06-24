@@ -1,1 +1,1 @@
-rancher:v2.6.3
+rancher:latest
