@@ -1,1 +1,1 @@
-sun0421/rancher:v2.6.3
+rancher:v2.6.3
